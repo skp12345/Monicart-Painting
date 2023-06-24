@@ -1,0 +1,91 @@
+.myicon {
+    font-size: 2rem !important;
+    color: white;
+}
+
+.myicon:hover {
+    color: rgb(205, 153, 153);
+}
+
+.mytext{
+    color: white !important;
+}
+
+.myheadertext{
+    color: white !important;
+}
+.myheadertext:hover{
+    color: black !important;
+}
+
+.aboutme{
+height:68vh; 
+width:100%;
+}
+
+/* .single_img:hover{
+cursor: pointer !important;
+} */
+
+.Mainpic{
+    background-image: url('assets/images/img2.jpeg') !important;
+    width: 100%;
+height: 100%;
+background-position: center;
+}
+
+.header-info{
+    background-color: #f3819bd4;
+    color: white;
+    /* margin-left: 17px; */
+}
+
+.entry-title h3 a{
+    color: #2c4964 !important;
+}
+
+.sms{
+    color: #2c4964 !important;
+}
+
+.icon{
+    color: black !important;
+}
+
+input{
+   
+}
+
+.myslider{
+    height: 120vh;
+        }
+
+.aboutartist{
+    height:86vh;
+    width:100%;
+}
+
+
+.mygallery1{
+    display: block !important;
+}
+
+.mygallery2{
+    display: none !important;
+}
+
+.dt-menu-toggle{
+    border: 0px solid #f3819bd4 !important;
+}
+
+.myheadertext{
+    border: 0px solid #f3819bd4 !important;
+}
+
+.name{
+    font-size: 1.5rem;
+}
+
+.bullets{
+    font-size: 1.5rem;
+}
